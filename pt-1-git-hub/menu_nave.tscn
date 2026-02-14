@@ -1,0 +1,95 @@
+[gd_scene load_steps=5 format=3 uid="uid://sgiinnrlxwb7"]
+
+[ext_resource type="Texture2D" uid="uid://v484oiwyh0x7" path="res://menù nave.png" id="1_60oqf"]
+[ext_resource type="Script" uid="uid://dp4hnq54aoil4" path="res://menu_nave.gd" id="1_62fuy"]
+[ext_resource type="Texture2D" uid="uid://cyppq0a2l8qni" path="res://barra vita.png" id="2_62fuy"]
+[ext_resource type="FontFile" uid="uid://buovkiosg4h60" path="res://cinzel/Cinzel Family/Cinzel/Cinzel-Bold.ttf" id="3_85yqy"]
+
+[node name="MenuNave" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_62fuy")
+
+[node name="Sfondo" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 3
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -428.0
+offset_top = -289.0
+offset_right = 184.0
+offset_bottom = 119.0
+grow_horizontal = 0
+grow_vertical = 0
+scale = Vector2(0.7, 0.7)
+texture = ExtResource("1_60oqf")
+
+[node name="SezioneSopra" type="Control" parent="."]
+anchors_preset = 0
+offset_left = 65.0
+offset_top = 129.0
+offset_right = 497.0
+offset_bottom = 243.0
+
+[node name="TextureProgressBar" type="TextureProgressBar" parent="SezioneSopra"]
+layout_mode = 0
+offset_left = 1147.0
+offset_top = 387.0
+offset_right = 1243.0
+offset_bottom = 753.0
+scale = Vector2(0.25, 0.25)
+fill_mode = 3
+texture_progress = ExtResource("2_62fuy")
+
+[node name="Label_Capitano" type="Label" parent="SezioneSopra"]
+layout_mode = 0
+offset_left = 831.99994
+offset_top = 383.0
+offset_right = 993.99994
+offset_bottom = 413.0
+scale = Vector2(0.7, 0.7)
+theme_override_fonts/font = ExtResource("3_85yqy")
+text = "Carlos Fernandez"
+
+[node name="Label_Luogo" type="Label" parent="SezioneSopra"]
+layout_mode = 0
+offset_left = 832.0
+offset_top = 400.0
+offset_right = 912.0
+offset_bottom = 430.0
+scale = Vector2(0.7, 0.7)
+
+[node name="BarraIcone" type="HBoxContainer" parent="."]
+layout_mode = 0
+offset_left = 935.0
+offset_top = 617.0
+offset_right = 1191.0
+offset_bottom = 643.0
+
+[node name="Btn_Merci" type="TextureButton" parent="BarraIcone"]
+layout_mode = 2
+
+[node name="Btn_Flotta" type="TextureButton" parent="BarraIcone"]
+layout_mode = 2
+
+[node name="Btn_Rotte" type="TextureButton" parent="BarraIcone"]
+layout_mode = 2
+
+[node name="Btn_Nave" type="TextureButton" parent="BarraIcone"]
+layout_mode = 2
+
+[node name="Btn_Armi" type="TextureButton" parent="BarraIcone"]
+layout_mode = 2
+
+[node name="SezioneSotto" type="Control" parent="."]
+anchors_preset = 0
+offset_left = 331.0
+offset_top = 269.0
+offset_right = 371.0
+offset_bottom = 402.0

@@ -1,0 +1,48 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1771090959
+barra vita.png::CompressedTexture2D::6489279922930376986::1771089376::1771089376::1::::<><><>0<>0<>6419f98e60964135871b77327834377c<>res://.godot/imported/barra vita.png-125e426eafb4376b17482589d6d51e63.ctex::
+button_esci.gd::GDScript::1740286819323712558::1771089376::0::1::::<>Button<><>0<>0<><>::
+camera_2d.gd::GDScript::7626670961510866163::1771089376::0::1::::<>Camera2D<><>0<>0<><>::
+ChatGPT Image 19 dic 2025, 14_47_29.png::CompressedTexture2D::7673156117750886038::1771089376::1771089376::1::::<><><>0<>0<>543d74323ceed754389a9b0d749ddca3<>res://.godot/imported/ChatGPT Image 19 dic 2025, 14_47_29.png-f179b35fc94b813827416bfe2cb5cb98.ctex::
+ChatGPT Image 19 dic 2025, 15_50_26.png::CompressedTexture2D::5764731545690499357::1771089376::1771089376::1::::<><><>0<>0<>f1827d878d2368dce2ef55a1db5dcbbd<>res://.godot/imported/ChatGPT Image 19 dic 2025, 15_50_26.png-aca3c53c0719a291cbdff03855c9df33.ctex::
+ChatGPT Image 19 dic 2025, 15_53_00.png::CompressedTexture2D::4097008066994375958::1771089376::1771089376::1::::<><><>0<>0<>a47d0faa99ce4d6a2b8510b01d4d6931<>res://.godot/imported/ChatGPT Image 19 dic 2025, 15_53_00.png-94acb5b5a3a54fdb1d2ced6ce1a3fbcd.ctex::
+Città1.png::CompressedTexture2D::8139223295762118511::1771089376::1771089376::1::::<><><>0<>0<>a823eb2f246bc9c9f1dcbd6c0363b7d6<>res://.godot/imported/Città1.png-5d506ee4a303bee623ddb26b0b85df61.ctex::
+città.gd::GDScript::7457047339073440671::1771089376::0::1::::<>Area2D<><>0<>0<><>::
+Galleone.jpg::CompressedTexture2D::2840408517920560575::1771089376::1771089376::1::::<><><>0<>0<>e6933818a1f392e5ae9cd4b108427206<>res://.godot/imported/Galleone.jpg-64be42aa79e46dae622689de18b27186.ctex::
+Global.gd::GDScript::909830589191418758::1771089376::0::1::::<>Node<><>0<>0<><>::
+icon.svg::CompressedTexture2D::8180617298934159930::1771089376::1771089376::1::::<><><>0<>0<>562be32143fbda297c14a0309f7ec258<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+label_oro.gd::GDScript::2745987401025201738::1771089376::0::1::::<>Node2D<><>0<>0<><>::
+line_2d.gd::GDScript::4662718081097970797::1771089376::0::1::::<>Line2D<><>0<>0<><>::
+menu_nave.gd::GDScript::8272410782823573315::1771089376::0::1::::<>Control<><>0<>0<><>::
+menu_nave.tscn::PackedScene::1276286177976353122::1771089376::0::1::::<><><>0<>0<><>::uid://v484oiwyh0x7::::res://menù nave.png<>uid://dp4hnq54aoil4::::res://menu_nave.gd<>uid://cyppq0a2l8qni::::res://barra vita.png<>uid://buovkiosg4h60::::res://cinzel/Cinzel Family/Cinzel/Cinzel-Bold.ttf
+menù gioco.png::CompressedTexture2D::8888306653506892223::1771089376::1771089376::1::::<><><>0<>0<>3d93afe15decc22a18ae84589d5efa83<>res://.godot/imported/menù gioco.png-9a5e6d87aebe340bebd5170adf2d38d4.ctex::
+menù nave.png::CompressedTexture2D::1535888868768242442::1771089376::1771089376::1::::<><><>0<>0<>ca2136bd3ebc322032fccd0e65d79bb9<>res://.godot/imported/menù nave.png-a92211cae66e862e30c787167dda022f.ctex::
+Menù nuovo.jpeg::CompressedTexture2D::7329280806549256243::1771089376::1771089376::1::::<><><>0<>0<>580834128f16592f30060197e4856797<>res://.godot/imported/Menù nuovo.jpeg-8fe07869288ed99f39e4b2038b6864f9.ctex::
+nave2.png::CompressedTexture2D::4190102233430988353::1771089376::1771089376::1::::<><><>0<>0<>963a012e36675a296b0d96c08730a01e<>res://.godot/imported/nave2.png-3f402abd8c1a19b8664d219c55d5a97e.ctex::
+Nave nuovo 1.png::CompressedTexture2D::1098013560827525152::1771089376::1771089376::1::::<><><>0<>0<>b16cf55f0544e4b926da4df0f3e86766<>res://.godot/imported/Nave nuovo 1.png-184bd2b4aaf8c616d230aeede29e4cf3.ctex::
+nave.gd::GDScript::7446781588919390511::1771089376::0::1::::<>CharacterBody2D<><>0<>0<><>::
+node_2d.tscn::PackedScene::1263102930505089798::1771089376::0::1::::<><><>0<>0<><>::uid://dedjn06rsyxat::::res://nave.gd<>uid://b0xymvtqql2jl::::res://nave2.png<>uid://b7owjyd2rr2cf::::res://line_2d.gd<>uid://dgwofk4yq37cp::::res://camera_2d.gd<>uid://deiiqldihu14n::::res://città.gd<>uid://dn7x23hlquyy6::::res://Città1.png<>uid://dcomgi1nnrgqd::::res://Menù nuovo.jpeg<>uid://buovkiosg4h60::::res://cinzel/Cinzel Family/Cinzel/Cinzel-Bold.ttf<>uid://dpjl64tks7k4x::::res://Tabella Mercato.png<>uid://sgiinnrlxwb7::::res://menu_nave.tscn
+Screenshot 2025-12-20 172422.png::CompressedTexture2D::7096034582338685058::1771089376::1771089376::1::::<><><>0<>0<>cf427a288b5a945c71ce0e9bdb74b88e<>res://.godot/imported/Screenshot 2025-12-20 172422.png-ab35b900032fff7cf88174cdd9fd9d79.ctex::
+susan_constant.glb::PackedScene::4578863052367028692::1771089376::1771089376::1::::<><><>0<>0<>4da8738ad566207c3171997ad94a847f<>res://.godot/imported/susan_constant.glb-1352e4a425781f2a9ce16c8ef26567ac.scn::
+Tabella Mercato.png::CompressedTexture2D::8231398904975926457::1771089376::1771089376::1::::<><><>0<>0<>df074658d026385f955db0967e96fca3<>res://.godot/imported/Tabella Mercato.png-7b781b08951047b6c06448e25a451363.ctex::
+—Pngtree—old tall sailing ship on_16530834.png::CompressedTexture2D::6733278582422785248::1771089376::1771089376::1::::<><><>0<>0<>9697aa6a2974fdccf54780889342b3a7<>res://.godot/imported/—Pngtree—old tall sailing ship on_16530834.png-72e477c619dc02205b6267a105d8ca6b.ctex::
+::res://cinzel/::1771089915
+::res://cinzel/Cinzel Family/::1771089915
+OFL.txt::TextFile::-1::1771089378::0::1::::<><><>0<>0<><>::
+::res://cinzel/Cinzel Family/Cinzel/::1771089915
+Cinzel-Black.otf::FontFile::6020329087191323115::1771089379::1771089379::1::::<><><>0<>0<>93f51df52250c6b6924a421e496af196<>res://.godot/imported/Cinzel-Black.otf-9bc37e5c702a8b26976432b903c93c86.fontdata::
+Cinzel-Black.ttf::FontFile::3770531766061688515::1771089379::1771089379::1::::<><><>0<>0<>9a25b67300a07e1ba8f5cd799336e2e6<>res://.godot/imported/Cinzel-Black.ttf-5d85e79768b4e3b9d4db0c5552557114.fontdata::
+Cinzel-Bold.otf::FontFile::712541379800441242::1771089379::1771089379::1::::<><><>0<>0<>1e9a038167a781ce972e2816a549966c<>res://.godot/imported/Cinzel-Bold.otf-d683f1a3de9cd802d3411ed683d02b7c.fontdata::
+Cinzel-Bold.ttf::FontFile::3820392202438797915::1771089379::1771089379::1::::<><><>0<>0<>3b1fcc237a08c2e9603bd435e5a86548<>res://.godot/imported/Cinzel-Bold.ttf-7c3e180215d7353e71a02e27ced38cd8.fontdata::
+Cinzel-Regular.otf::FontFile::502400549317552802::1771089379::1771089379::1::::<><><>0<>0<>be4b0f8718e365f2986b579f4919bdc3<>res://.godot/imported/Cinzel-Regular.otf-520b593afd14be4f1997d9da8189c4cc.fontdata::
+Cinzel-Regular.ttf::FontFile::1565562930715066439::1771089379::1771089379::1::::<><><>0<>0<>a248413d67ea42bc9e54fc02fdfbb78c<>res://.godot/imported/Cinzel-Regular.ttf-b31c0ce71a8847c37105a46edbaa74d8.fontdata::
+::res://cinzel/Cinzel Family/Cinzel_Decorative/::1771089915
+CinzelDecorative-Black.otf::FontFile::5601607784048996349::1771089379::1771089379::1::::<><><>0<>0<>37580b045ff576cd44cad602478af93d<>res://.godot/imported/CinzelDecorative-Black.otf-3b59f0acafa1cf88db0071d368aa4a64.fontdata::
+CinzelDecorative-Black.ttf::FontFile::5385324464522992875::1771089379::1771089379::1::::<><><>0<>0<>f693804c9499a7b0135b1c130f27e4c3<>res://.godot/imported/CinzelDecorative-Black.ttf-4453e1273896c690525ba96a1b3c6fb6.fontdata::
+CinzelDecorative-Bold.otf::FontFile::4015646420210441084::1771089379::1771089379::1::::<><><>0<>0<>2c24d19777de48a8c9f103d4e726721b<>res://.godot/imported/CinzelDecorative-Bold.otf-bd2d87f080a52a4b010e0bbdd44b3405.fontdata::
+CinzelDecorative-Bold.ttf::FontFile::684160215678866948::1771089379::1771089379::1::::<><><>0<>0<>dca7982745d845e69d23a4888bde159a<>res://.godot/imported/CinzelDecorative-Bold.ttf-6b869381bf7cdfccec8c4f0b0a027e73.fontdata::
+CinzelDecorative-Regular.otf::FontFile::7313867650872961453::1771089379::1771089379::1::::<><><>0<>0<>54f934f777e37fcca7c6e99c52ad345c<>res://.godot/imported/CinzelDecorative-Regular.otf-3bdebd11b21808f46ff48ed4c7c7363d.fontdata::
+CinzelDecorative-Regular.ttf::FontFile::3953224093050995344::1771089379::1771089379::1::::<><><>0<>0<>b1bf323be44002e8a4f41355a2a51b48<>res://.godot/imported/CinzelDecorative-Regular.ttf-3422c73a96351020efad6854dd8c4792.fontdata::
+::res://desktop-tutorial/::1771089915
+README.md::TextFile::-1::1771089379::0::1::::<><><>0<>0<><>::
+::res://PT1/::1771089915
